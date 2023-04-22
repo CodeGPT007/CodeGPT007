@@ -1,12 +1,12 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Codeloger&count_private=true)](https://github.com/Codeloger/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeGPT007&count_private=true)](https://github.com/CodeGPT007/github-readme-stats)
 
 
 <!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeloger)](https://github.com/Codeloger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGPT007)](https://github.com/CodeGPT007/github-readme-stats)
 
 
-**Codeloger/Codeloger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeGPT007/CodeGPT007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
